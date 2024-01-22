@@ -26,7 +26,7 @@ GitHub Actions makes it easier than ever to incorporate continuous delivery (CD)
 - **Who is this for**: Developers, DevOps engineers, full stack developers, cloud engineers.
 - **What you'll learn**: Continuous delivery, how to save and access build artifacts, package management, how to publish to GitHub Packages.
 - **What you'll build**: We will build a Docker image that runs a small game.
-- **Prerequisites**: We recommend you first complete the following courses: [Hello, GitHub Actions](https://github.com/skills/hello-github-actions) and [Continuous Integration](https://github.com/skills/continuous-integration).
+- **Prerequisites**: We recommend you first complete the following courses: [Hello, GitHub Actions](https://github.com/cours-esilv/hello-github-actions) and [Continuous Integration](https://github.com/cours-esilv/test-with-actions).
 - **How long**: This course takes less than 30 minutes to complete.
 
 In this course, you will:
@@ -39,16 +39,16 @@ In this course, you will:
 
 <!-- For start course, run in JavaScript:
 'https://github.com/new?' + new URLSearchParams({
-  template_owner: 'skills',
+  template_owner: 'cours-esilv',
   template_name: 'publish-packages',
   owner: '@me',
-  name: 'skills-publish-packages',
+  name: 'cours-esilv-publish-packages',
   description: 'My clone repository',
   visibility: 'public',
 }).toString()
 -->
 
-[![start-course](https://user-images.githubusercontent.com/1221423/235727646-4a590299-ffe5-480d-8cd5-8194ea184546.svg)](https://github.com/new?template_owner=skills&template_name=publish-packages&owner=%40me&name=skills-publish-packages&description=My+clone+repository&visibility=public)
+[![start-course](https://user-images.githubusercontent.com/1221423/235727646-4a590299-ffe5-480d-8cd5-8194ea184546.svg)](https://github.com/new?template_owner=cours-esilv&template_name=publish-packages&owner=%40me&name=cours-esilv-publish-packages&description=My+clone+repository&visibility=public)
 
 1. Right-click **Start course** and open the link in a new tab.
 2. In the new tab, most of the prompts will automatically fill in for you.
@@ -65,8 +65,6 @@ In this course, you will:
 -->
 
 ---
-
-Get help: [Post in our discussion board](https://github.com/orgs/skills/discussions/categories/publish-packages) &bull; [Review the GitHub status page](https://www.githubstatus.com/)
 
 &copy; 2023 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
 
